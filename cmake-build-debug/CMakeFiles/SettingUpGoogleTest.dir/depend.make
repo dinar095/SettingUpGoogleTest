@@ -39,7 +39,6 @@ CMakeFiles/SettingUpGoogleTest.dir/Tests/test.cpp.o: ../lib/googletest-master/go
 CMakeFiles/SettingUpGoogleTest.dir/Tests/test.cpp.o: ../lib/googletest-master/googletest/include/gtest/internal/gtest-port.h
 CMakeFiles/SettingUpGoogleTest.dir/Tests/test.cpp.o: ../lib/googletest-master/googletest/include/gtest/internal/gtest-string.h
 CMakeFiles/SettingUpGoogleTest.dir/Tests/test.cpp.o: ../lib/googletest-master/googletest/include/gtest/internal/gtest-type-util.h
-CMakeFiles/SettingUpGoogleTest.dir/Tests/test.cpp.o: ../Tests/ClassName.h
 CMakeFiles/SettingUpGoogleTest.dir/Tests/test.cpp.o: ../Tests/test.cpp
 CMakeFiles/SettingUpGoogleTest.dir/Tests/test.cpp.o: ../project/project.h
 

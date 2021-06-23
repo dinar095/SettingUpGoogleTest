@@ -528,15 +528,11 @@ cxxabi.h
 acxx_demangle.h
 -
 
-/mnt/c/Users/dinar/CLionProjects/SettingUpGoogleTest/Tests/ClassName.h
-
 /mnt/c/Users/dinar/CLionProjects/SettingUpGoogleTest/Tests/test.cpp
 gtest/gtest.h
 -
 gmock/gmock.h
 -
-ClassName.h
-/mnt/c/Users/dinar/CLionProjects/SettingUpGoogleTest/Tests/ClassName.h
 ../project/project.h
 /mnt/c/Users/dinar/CLionProjects/SettingUpGoogleTest/project/project.h
 
