@@ -1,1 +1,0 @@
-/usr/bin/c++     CMakeFiles/SettingUpGoogleTest.dir/main.cpp.o CMakeFiles/SettingUpGoogleTest.dir/Tests/test.cpp.o CMakeFiles/SettingUpGoogleTest.dir/project/project.c.o  -o SettingUpGoogleTest  lib/libgtestd.a lib/libgtest_maind.a lib/libgtestd.a -lpthread 
